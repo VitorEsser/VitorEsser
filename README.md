@@ -6,8 +6,8 @@ src="https://i.pinimg.com/originals/ff/41/dc/ff41dcc9e23820cb030f3375249eab39.jp
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=VitorEsser&color=54AEFF&style=for-the-badge" alt="Profile Views" /> </pcem>
 
 - 🤟🏻 I’m Vitor Esser
-- 🔭 I’m a frontend developer
-- 🌱 I’m currently learning React and Vue
+- 🔭 I’m a FullStack developer
+- 🌱 I’m currently learning React and Node.js
 
 <br>
 <div>
