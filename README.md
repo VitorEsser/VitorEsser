@@ -1,7 +1,12 @@
-<img align="right" height="600em"
-src="https://i.pinimg.com/originals/ff/41/dc/ff41dcc9e23820cb030f3375249eab39.jpg"/>
+<div align="center">
 
-## 😎 Hello Everyone!!
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0033,50:4b0082,100:7b2cbf&height=120&section=header"/>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=I%20am%20Vitor.&fontSize=70&color=0:5f0f99,100:9d4edd&stroke=ffffff&fontColor=f8f9fa"/>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=18&duration=3000&pause=1000&color=5F0F99&background=FF49F500&center=true&vCenter=true&width=435&lines=Senior+Software+Engineer;Tech+Enthusiast+%7C+Boardgame+Lover;Building+elegant+solutions+worldwide" alt="Typing SVG" /></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=VitorEsser&color=54AEFF&style=for-the-badge" alt="Profile Views" /> </pcem>
 
@@ -39,4 +44,6 @@ src="https://i.pinimg.com/originals/ff/41/dc/ff41dcc9e23820cb030f3375249eab39.jp
   <a href="mailto:vitoresser10@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
   </a>
+</div>
+
 </div>
