@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=I%20am%20Vitor.&fontSize=70&color=0:5f0f99,100:9d4edd&stroke=ffffff&fontColor=f8f9fa"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=I%20am%20Vitor.&fontSize=70&color=0:5f0f99,100:9d4edd&stroke=4b0082&strokeWidth=1.2&fontColor=f8f9fa"/>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=18&duration=3000&pause=1000&color=5F0F99&background=FF49F500&center=true&vCenter=true&width=435&lines=Senior+Software+Engineer;Tech+Enthusiast+%7C+Boardgame+Lover;Building+elegant+solutions+worldwide" alt="Typing SVG" /></a>
 
