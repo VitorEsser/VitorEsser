@@ -86,7 +86,7 @@ const vitoresser = {
 
 <br/>
 
-**💼&nbsp;&nbsp;Senior Software Engineer**
+**💼&nbsp;&nbsp;Software Engineer**
 
 **Open for exciting collaborations and opportunities!**
 
