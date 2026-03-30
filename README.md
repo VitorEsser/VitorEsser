@@ -16,7 +16,7 @@
 
 ```javascript
 const vitoresser = {
-    role: "Senior Software Engineer",
+    role: "Software Engineer",
     location: "Luxembourg",
     languages: ["Portuguese", "English", "French"],
     stack: ["React", "TypeScript", "Node.js"],
